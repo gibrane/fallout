@@ -12,7 +12,6 @@
 ZAX unit installed in [[id:17c61845-3304-407f-891d-636a80e05db8][Vault 109]], Still works in [[id:aac00032-5193-4c6a-92f2-2fb534211a3b][Vaultown]] governing
 citizenship, choosing the overseer, and some important decisions.
 
-Makes all choices by random chance.
 * Personality
 - voice: robot
 
