@@ -13,3 +13,6 @@ jobs:
         with:
           org-roam-db-filename: roam.db
           deploy-to-pages: true
+permissions:
+  id-token: write
+  pages: write
