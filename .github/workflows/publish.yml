@@ -1,8 +1,9 @@
 name: Generate static org-roam-ui page
 on:
+  workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 jobs:
   main:
     runs-on: self-hosted
