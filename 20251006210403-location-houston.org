@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c813b7b5-2067-4250-8135-1f9b1ee8c3a3
+:END:
+#+title: Houston
+#+filetags: :location:fallout:
+* Info
+Old world city on the western end of [[id:3aec2528-517d-476c-a04d-abd14fee0cf4][The Bayou Wastes]]
+* Characters

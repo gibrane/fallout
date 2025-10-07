@@ -4,8 +4,8 @@
 #+title: Smokestack City
 #+filetags: :location:fallout:
 * Info
-Built across oil refineries in Pasadena. Protects a stash of oil and gas that
-they slowly sell.
+Built across oil refineries in Pasadena, just East of [[id:c813b7b5-2067-4250-8135-1f9b1ee8c3a3][Houston]]. Protects a
+stash of oil and gas that they slowly sell.
 * Characters
 [[id:a119d328-7c59-4916-918b-9dfa1d27de5f][Maggie Park]]
 [[id:1b8bd6b9-a62a-43aa-be2b-992858bb0286][Randy Jacobs]]

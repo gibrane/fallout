@@ -4,5 +4,5 @@
 #+title: Lakewood Church
 #+filetags: :location:fallout:
 * Info
-Church in Houston. Locals will shoot unrecognized wanderers on sight.
+Church in [[id:c813b7b5-2067-4250-8135-1f9b1ee8c3a3][Houston]]. Locals will shoot unrecognized wanderers on sight.
 * Characters
