@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       da7a9a72-e23b-48fb-9664-6566c03a71cf
+:END:
+#+title: Johnson Outpost
+#+filetags: :location:fallout:
+* Info
+[[id:a7ebb2c1-189f-4f2b-ae5b-72486895fb53][The Brotherhood of Steel]] base at the old Johnson Space Center, in
+[[id:3aec2528-517d-476c-a04d-abd14fee0cf4][The Bayou Wastes]] south of [[id:c813b7b5-2067-4250-8135-1f9b1ee8c3a3][Houston]].
+* Characters

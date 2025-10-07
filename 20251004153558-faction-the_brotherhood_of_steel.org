@@ -5,7 +5,7 @@
 #+filetags: :faction:fallout:
 * Info
  Descendants of an expedition to Texas from the Brotherhood in California
- who eventually settled at The Space Center.
+ who eventually settled at [[id:da7a9a72-e23b-48fb-9664-6566c03a71cf][Johnson Outpost]].
 
 * Characters
 [[id:5bebe8c8-74d1-4b2e-8438-d954532e61d0][Head Paladin Jane Rhombus]]
