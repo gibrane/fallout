@@ -11,7 +11,3 @@ Successfully activated their GECK 5 years ago and became a proper settlement.
 * Characters
 [[id:c159512f-5dac-4f81-9411-a9e36b2222c6][Overseer Gertrude Phillips]]
 
-* Hidden
-Almost a control vault to the ZAX control vaults, but the supercomputer that
-makes decisions does so by random number generation tracking background
-radiation.
