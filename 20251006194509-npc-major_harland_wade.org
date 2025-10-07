@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c3c785d5-02ee-4dd3-9fe0-0d733df26396
+:END:
+#+title: Major Harlan Wade
+#+filetags: :npc:fallout:
+* Info
+- name: Harlan Wade
+- pronouns: he/him
+- race: Human
+
+* Background
+[[id:998b75d6-7a3d-4539-a804-bc5abbf2a0b5][Republic of Texas]] major who runs [[id:a4b44de3-8122-4c3e-b152-ef228531d67d][RoT Katy Outpost]]. Seems perpetually
+bored.
+
+* Personality
+- voice
+
+* Relationships

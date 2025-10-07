@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5bebe8c8-74d1-4b2e-8438-d954532e61d0
+:END:
+#+title: Head Paladin Jane Rhombus
+#+filetags: :npc:fallout:
+* Info
+- name: Jane Rhombus
+- pronouns: she/her
+- race: Human
+
+* Background
+Descendant of the first leader of [[id:a7ebb2c1-189f-4f2b-ae5b-72486895fb53][The Brotherhood of Steel]]'s Texas Expedition
+
+
+* Personality
+- voice: No-nonsense, driven
+
+* Relationships

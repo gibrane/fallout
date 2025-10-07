@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       aac00032-5193-4c6a-92f2-2fb534211a3b
+:END:
+#+title: Vaultown
+#+filetags: :location:fallout:
+* Info
+Vault in north of [[id:3aec2528-517d-476c-a04d-abd14fee0cf4][The Bayou Wastes]], in modern The Woodlands
+
+Successfully activated their GECK 5 years ago and became a proper settlement.
+
+* Characters
+[[id:c159512f-5dac-4f81-9411-a9e36b2222c6][Overseer Gertrude Phillips]]
+
+* Hidden
+Almost a control vault to the ZAX control vaults, but the supercomputer that
+makes decisions does so by random number generation tracking background
+radiation.

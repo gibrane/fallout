@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       221a4567-63a8-4f7f-a8ce-175c833ac7f0
+:END:
+#+title: Lakewood Church
+#+filetags: :location:fallout:
+* Info
+Church in Houston. Locals will shoot unrecognized wanderers on sight.
+* Characters

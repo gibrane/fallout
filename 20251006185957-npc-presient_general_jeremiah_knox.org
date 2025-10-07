@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cbc808e4-f5f0-409d-9829-57395d333c31
+:END:
+#+title: Presient-General Jeremiah Knox
+#+filetags: :npc:fallout:
+* Info
+- name: Jeremiah Knox
+- pronouns: He/Him
+- race: Ghoul
+
+* Background
+Pre-war ghoul. Former mercenary, leader of [[id:998b75d6-7a3d-4539-a804-bc5abbf2a0b5][Republic of Texas]].
+
+* Personality
+- voice
+
+* Relationships

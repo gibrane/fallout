@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       acd3e1ae-7aee-49cb-b9d8-12255f4486dd
+:END:
+#+title: Lone Star Radio
+#+filetags: :location:fallout:
+* Info
+Radio broadcasting out of Montrose.
+* Characters
+[[id:26bf0de7-3d21-499a-a749-9d7d3a09cb66][Henry "The Hurricane" Phillips]]

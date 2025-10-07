@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3aec2528-517d-476c-a04d-abd14fee0cf4
+:END:
+#+title: The Bayou Wastes
+#+filetags: :location:fallout:
+* Info
+Wasteland stretching from Houston, TX to New Orleans, LA
+* Characters

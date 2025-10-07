@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       998b75d6-7a3d-4539-a804-bc5abbf2a0b5
+:END:
+#+title: Republic of Texas
+#+filetags: :faction:fallout:
+* Info
+Abbreviated as RoT and sometimes referred to as "The Rot"
+
+Large faction out of Central Texas, based in old government buildings out of
+Austin. Territory extends to San Antonio and Dallas
+
+Have one outpost in the Houston area: [[id:a4b44de3-8122-4c3e-b152-ef228531d67d][RoT Katy Outpost]], and ambassadors in
+most settlements.
+
+Expansionist and nationalist, but stable.
+
+Military consists of [[id:a771279d-07a3-44b6-a1cb-d85856deeb93][Texas Rangers]].
+
+* Characters
+[[id:cbc808e4-f5f0-409d-9829-57395d333c31][Presient-General Jeremiah Knox]]
+
+* Relationships
+Uneasy alliance with [[id:aac00032-5193-4c6a-92f2-2fb534211a3b][Vaultown]].

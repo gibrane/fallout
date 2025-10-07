@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       17c61845-3304-407f-891d-636a80e05db8
+:END:
+#+title: Vault 109
+#+filetags: :location:fallout:
+* Info
+Vault that becomes [[id:aac00032-5193-4c6a-92f2-2fb534211a3b][Vaultown]]
+* Characters

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1b8bd6b9-a62a-43aa-be2b-992858bb0286
+:END:
+#+title: Randy Jacobs
+#+filetags: :npc:fallout:
+* Info
+- name: Randy Jacobs
+- pronouns: he/him
+- race: human
+
+* Background
+Runs [[id:8e7a57e4-b348-4e91-914a-685b3aa3bb41][Smokestack City]]. Former member of [[id:a7ebb2c1-189f-4f2b-ae5b-72486895fb53][The Brotherhood of Steel]].
+
+* Personality
+- voice
+
+* Relationships
+[[id:5bebe8c8-74d1-4b2e-8438-d954532e61d0][Head Paladin Jane Rhombus]] considers him a traitor.

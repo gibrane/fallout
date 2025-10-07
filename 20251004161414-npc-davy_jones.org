@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5acb8693-c5f3-4774-9052-31013350f05a
+:END:
+#+title: Davy Jones
+#+filetags: :npc:fallout:
+* Info
+- name: Davy Jones
+- pronouns: he/him
+- race: Ghoul
+
+* Background
+ Ghoul who runs [[id:44084e05-82fe-4578-a04d-3a457715c409][The Flying Dutchmen]]. Past is unknown.
+
+* Personality
+- voice: ghoul
+
+* Relationships
+Works closely with [[id:f3462d3f-6643-40e9-98c9-d5830636ee59][Overseer Michael Erick]] to distribute food.

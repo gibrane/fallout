@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a7ebb2c1-189f-4f2b-ae5b-72486895fb53
+:END:
+#+title: The Brotherhood of Steel
+#+filetags: :faction:fallout:
+* Info
+ Descendants of an expedition to Texas from the Brotherhood in California
+ who eventually settled at The Space Center.
+
+* Characters
+[[id:5bebe8c8-74d1-4b2e-8438-d954532e61d0][Head Paladin Jane Rhombus]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       abff3401-7a97-4a06-998c-a7354d6ecdb1
+:END:
+#+title: The Lakewooders
+#+filetags: :faction:fallout:
+* Info
+Incredibly isolationist group based out of [[id:221a4567-63a8-4f7f-a8ce-175c833ac7f0][Lakewood Church]].
+
+* Characters

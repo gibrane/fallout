@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0f226c47-f81c-4685-ab6f-2dd0f0a3b442
+:END:
+#+title: Mayor Francine Galloway
+#+filetags: :npc:fallout:
+* Info
+- name: Francine Galloway
+- pronouns: she/her
+- race: Ghoul
+
+* Background
+Pre-war ghoul. Founded [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]] 50 years ago after traveling from
+Necropolis in California.
+
+* Personality
+- voice: Ghoul
+
+* Relationships
+Despises [[id:f3462d3f-6643-40e9-98c9-d5830636ee59][Overseer Michael Erick]] with all his heart for his policy of giving
+food to anyone who pays.

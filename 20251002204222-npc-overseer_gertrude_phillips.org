@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c159512f-5dac-4f81-9411-a9e36b2222c6
+:END:
+#+title: Overseer Gertrude Phillips
+#+filetags: :npc:fallout:
+* Info
+- name: Gertrude Phillips
+- pronouns: she/her
+- race: Human
+
+* Background
+Raised in the vault, the [[id:f94767a7-b46b-4653-ae6d-e1a1191eac97][ZAX]] chose her to be overseer.
+* Personality
+- voice: Bubbly, exited
+
+* Relationships

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       44084e05-82fe-4578-a04d-3a457715c409
+:END:
+#+title: The Flying Dutchmen
+#+filetags: :faction:fallout:
+* Info
+A group of ghouls who run radiation-safe boats through the [[id:3aec2528-517d-476c-a04d-abd14fee0cf4][The Bayou Wastes]]
+
+They have contracts with the major caravan companies outside the bayou, but
+most brahmin-pulled caravans cannot consistently cross the bayou.
+
+Based out of boathouses in modern Clear Lake.
+
+* Characters
+[[id:5acb8693-c5f3-4774-9052-31013350f05a][Davy Jones]]

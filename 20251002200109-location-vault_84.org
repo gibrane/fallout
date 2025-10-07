@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2dce4419-073d-4cfa-86b6-ecfef0abceb4
+:END:
+#+title: Vault 84
+#+filetags: :location:fallout:
+* Info
+Vault on [[id:bd6d1207-8eb9-4d59-9804-5f31df8b4d71][The Sunken Strip]]
+
+Plant growth technology similar to the one in New Vegas succeeded here, they
+provide food to the majority of the Houston area.
+
+No one is sure how they grow their food.
+
+Sells food to anyone who will pay. People of [[id:cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5][Happy Harbor]] are not happy about
+this
+
+* Characters
+[[id:f3462d3f-6643-40e9-98c9-d5830636ee59][Overseer Michael Erick]]

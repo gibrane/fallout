@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a119d328-7c59-4916-918b-9dfa1d27de5f
+:END:
+#+title: Maggie Park
+#+filetags: :npc:fallout:
+* Info
+- name: Maggie Park
+- pronouns: she
+- race: Human
+
+* Background
+Dissident from [[id:abff3401-7a97-4a06-998c-a7354d6ecdb1][The Lakewooders]]. Lives in [[id:8e7a57e4-b348-4e91-914a-685b3aa3bb41][Smokestack City]].
+
+* Personality
+- voice
+
+* Relationships

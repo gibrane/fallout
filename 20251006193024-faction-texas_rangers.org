@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a771279d-07a3-44b6-a1cb-d85856deeb93
+:END:
+#+title: Texas Rangers
+#+filetags: :faction:fallout:
+* Info
+Elite forces of [[id:998b75d6-7a3d-4539-a804-bc5abbf2a0b5][Republic of Texas]] military. Often seen exploring the area
+solo.
+* Characters

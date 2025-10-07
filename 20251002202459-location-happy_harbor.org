@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       cb2df07e-0c22-4f20-ac78-fe7ad2fed0a5
+:END:
+#+title: Happy Harbor
+#+filetags: :location:fallout:
+* Info
+Settlement on [[id:bd6d1207-8eb9-4d59-9804-5f31df8b4d71][The Sunken Strip]]
+
+Proximity to [[id:2dce4419-073d-4cfa-86b6-ecfef0abceb4][Vault 84]] along with an unknown seemingly unlimited source of caps
+has led to it being the most prosperous city in [[id:3aec2528-517d-476c-a04d-abd14fee0cf4][The Bayou Wastes]]
+
+* Characters
+[[id:0f226c47-f81c-4685-ab6f-2dd0f0a3b442][Mayor Francine Galloway]]
