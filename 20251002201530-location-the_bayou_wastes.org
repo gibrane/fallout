@@ -5,4 +5,7 @@
 #+filetags: :location:fallout:
 * Info
 Wasteland stretching from Houston, TX to New Orleans, LA
+
+Large flooded, irradiated segments of the area make travel difficult for
+those without experience.
 * Characters
