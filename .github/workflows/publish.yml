@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   main:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Generate org-roam-ui page
         uses: ikoamu/publish-org-roam-ui@main
